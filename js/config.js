@@ -11,7 +11,7 @@ window.APP_CONFIG = {
   APP_SUBTITLE: "Inquiry, Demo & Admission Tracking System",
 
   // Last working Apps Script Web App URL from your Google setup
-  API_URL: "https://script.google.com/macros/s/AKfycbxOviEDTc3cEA1XcFEB3NkLfI_7Wa5lsTGGddXa2X7ZTDf286d096Rm-WGbKSRZyHPk/exec",
+  API_URL: "https://script.google.com/macros/s/AKfycbw7D1uo05f2lEEaXubrzRF4RSXi_BLrJvJX0LuIncB2ir_ywoHpEwWXFi3mi7KQFyyb/exec",
 
   // true  = sample data in this browser tab (session only)
   // false = Google Sheet via Apps Script
